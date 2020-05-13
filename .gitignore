@@ -1,0 +1,9 @@
+#mendix system
+.mendix-cache
+deployment
+.svn
+*.mpr.bak
+*.mpr.lock
+*.launch
+.project
+.classpath
